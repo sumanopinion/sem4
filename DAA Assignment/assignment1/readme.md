@@ -15,3 +15,7 @@ if we use static array then whether that would effect the complexity or not._
 **The main difference between using a static array and a dynamic array is the way memory is allocated. In a static array, memory is allocated at compile time, while in a dynamic array, memory is allocated at runtime using functions such as malloc() or calloc(). This can affect the amount of memory required by the program and the performance of memory-related operations, but it does not affect the time complexity of the sorting algorithms.**
 
 **In general, the choice between using a static array and a dynamic array depends on the specific requirements of the program, such as the size of the array and whether it needs to be resized during the execution of the program.**
+
+
+
+**Output** [Download PDF](https://drive.google.com/file/d/1rK0vQAQVJGFupLhn-Z2Pna3poWKxqk4D/view?usp=share_link)
