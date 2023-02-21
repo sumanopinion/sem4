@@ -8,4 +8,4 @@
 1. [XOR Gate](xor_gate.vhd)
 1. [XNOR Gate](xnor_gate.vhd)
 
-[Output PDF](https://drive.google.com/file/d/1r5DZ7CJaIXwOS73FvSB-N_amYHzdFGJC/view?usp=share_link)
+[Output PDF](https://drive.google.com/file/d/1nT9MGNm1wesG0-eE1y3CTZ2E0uFGgUzO/view?usp=share_link)
