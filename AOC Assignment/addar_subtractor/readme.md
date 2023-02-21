@@ -6,4 +6,4 @@
 1. [Full Subtractor](full_subtractor.vhd)
 
 
-[Output PDF](https://drive.google.com/drive/folders/1IAKGagqUYiLMaTHKaYeeuTfTwiio5-ba)
+[Output PDF](https://drive.google.com/file/d/1r5DZ7CJaIXwOS73FvSB-N_amYHzdFGJC/view?usp=share_link)
