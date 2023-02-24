@@ -34,9 +34,9 @@
 | Topic                 | Assignments                        |
 | --------------------- | ---------------------------------- |
 | Searching and Sorting | [Assignment 1](./DAA/assignment1/) |
-| Divide & Conquer I    | [Assignment 2](./DAA/assignment2/) |
-| Divide & Conquer II   | [Assignment 3](./DAA/assignment3/) |
-| Greedy Method I       | [Assignment 4](./DAA/assignment4/) |
+| Divide & Conquer I    | [Assignment 2](./DAA/assignment 2/) |
+| Divide & Conquer II   | [Assignment 3](./DAA/assignment 3/) |
+| Greedy Method I       | [Assignment 4](./DAA/assignment 4/) |
 | Greedy Method II      | Assignment 5                       |
 
 ---
