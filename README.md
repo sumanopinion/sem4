@@ -1,6 +1,23 @@
 # UEM 4th Sem
 
+Go to :arrow_right: [AIML Lab :brain:](#aiml-lab-brain) <br>
+Go to :arrow_right: [OS Lab :penguin:](#os-lab-penguin) <br>
+Go to :arrow_right: [DAA Lab :trollface:](#daa-lab-trollface) <br>
+Go to :arrow_right: [COA Lab :zero: :one:](#coa-lab-zeroone) <br>
+Go to :arrow_right: [Organizational Behavior :briefcase:](#organizational-behavior-briefcase) <br>
 Go to :arrow_right: [Study Materials :books:](#study-materials-books)
+
+---
+
+## AIML Lab :brain:
+
+| No. | Assignment                                   |
+| --- | -------------------------------------------- |
+| #1  | [Assignment 1](./AIML/assignment1/family.pl) |
+| #2  | [Assignment 2](./AIML/assignment2)           |
+| #3  | [Assignment 3](./AIML/assignment3)           |
+| #4  | [Assignment 4](./AIML/assignment4)           |
+| #5  | [Assignment 5](./AIML/assignment5)           |
 
 ---
 
